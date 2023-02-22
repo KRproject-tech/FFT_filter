@@ -14,7 +14,7 @@ where
 
 `[f_min f_max]`: bandpass [Hz]. 
 
-`plot_flag`: 0 or 1.
+`plot_flag`: When the argument is present, the FFT spectrum is plotted.
 
 ## Source codes
 
