@@ -32,3 +32,4 @@ where
 
 * __5- Hz HPF__: `FFT_filter_func( data, [5 Inf], 1);`
 ![5-Inf_Hz](https://user-images.githubusercontent.com/114337358/220587069-ba2c7ec2-f5d2-4643-a984-b148220bb3e9.png)
+
