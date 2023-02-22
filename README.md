@@ -29,6 +29,11 @@ __Input data example__:
 $f(t) = 4\cos( 2\pi t) + 2\cos( 2\pi 10t) + \sin( 2\pi 100t)$
 
 
+* __Power spectrum of input data__
+
+![untitled](https://user-images.githubusercontent.com/114337358/220673079-b0f8f224-5e1d-44c1-9614-5b839af66961.png)
+
+
 * __0-20Hz LPF__: `FFT_filter_func( data, [0 20], 1);`
 ![0-20_Hz](https://user-images.githubusercontent.com/114337358/220587034-48051427-612d-439a-89a8-79bae1d1d11b.png)
 
@@ -38,7 +43,6 @@ $f(t) = 4\cos( 2\pi t) + 2\cos( 2\pi 10t) + \sin( 2\pi 100t)$
 * __5- Hz HPF__: `FFT_filter_func( data, [5 Inf], 1);`
 ![5-Inf_Hz](https://user-images.githubusercontent.com/114337358/220587069-ba2c7ec2-f5d2-4643-a984-b148220bb3e9.png)
 
-* __Power spectrum of input data__
 
 
 
