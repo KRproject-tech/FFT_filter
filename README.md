@@ -1,7 +1,7 @@
 ![図1](https://user-images.githubusercontent.com/114337358/220586933-99d9dcf2-ca75-4198-b216-380defbd2c4e.png)
 
 # <p align=center>FFT_filter</p>
-__MATLAB code for Low Pass Filter (LPF) and High Pass Filter (HPF) based on Fast Fourier Transform (FFT).__
+__MATLAB code for Low Pass Filter (LPF) and High Pass Filter (HPF) based on Fast Fourier Transform (FFT) [^1].__
 
 
 # Usage
