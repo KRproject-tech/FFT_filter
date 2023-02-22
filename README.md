@@ -16,3 +16,8 @@ where
 
 `plot_flag`: 0 or 1.
 
+## Source codes
+
+* FFT_filter_func.m: FFT fliter function.
+
+* demo.m: demonstration for FFT_filter_func.m.
