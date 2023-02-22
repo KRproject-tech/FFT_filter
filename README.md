@@ -6,7 +6,7 @@ __MATLAB code for Low Pass Filter (LPF) and High Pass Filter (HPF) based on Fast
 
 # Usage
 
-`FFT_filter_func( raw_data, [f_min f_max], plot_flag)`
+`filtered_data = FFT_filter_func( raw_data, [f_min f_max], plot_flag);`
 
 where
 
