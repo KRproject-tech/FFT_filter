@@ -1,6 +1,14 @@
 ![図1](https://user-images.githubusercontent.com/114337358/220586933-99d9dcf2-ca75-4198-b216-380defbd2c4e.png)
 
 # <p align=center>FFT_filter</p>
+
+**Communication**
+
+<a style="text-decoration: none" href="https://twitter.com/hogelungfish" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%40hogelungfish-1da1f2.svg" alt="Twitter">
+</a>
+<p>
+
 __MATLAB code for Low Pass Filter (LPF) and High Pass Filter (HPF) based on Fast Fourier Transform (FFT) [^1].__
 
 
